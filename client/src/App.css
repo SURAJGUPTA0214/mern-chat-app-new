@@ -1,0 +1,6 @@
+.MuiInputLabel-outlined.MuiInputLabel-shrink{
+  display: none !important;
+}
+.text .MuiButtonBase-root {
+    width: 3rem !important;
+}

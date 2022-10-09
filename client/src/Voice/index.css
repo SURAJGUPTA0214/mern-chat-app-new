@@ -1,0 +1,27 @@
+
+.audiobox{
+    position: relative;
+    width: 40%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+.textIcon{
+    position: absolute;
+    bottom: 45px;
+    right: 15px;
+    cursor: pointer;
+    color: #48B1BF;
+    font-size: 28px;
+  }
+.buttons-div{
+    display: flex;
+    justify-content: space-around;
+}
+.headline{
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+}
